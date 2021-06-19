@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Các phản hồi luận về: Buffet Tối Tôm Hùm, Hải Sản Đẳng Cấp Quốc Tế	</title>
+	<atom:link href="http://localhost/myproject/wordpress/s%E1%BA%A3n%20ph%E1%BA%A9m/bugatti-la-voiture-noire/feed/" rel="self" type="application/rss+xml" />
+	<link>http://khangpham09123.github.io/mywordpress/sản%20phẩm/bugatti-la-voiture-noire/</link>
+	<description>WELCOME SHOPPE</description>
+	<lastBuildDate>Sat, 19 Jun 2021 08:06:28 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		Bởi: khang		</title>
+		<link>http://khangpham09123.github.io/mywordpress/sản%20phẩm/bugatti-la-voiture-noire/#comment-3</link>
+
+		<dc:creator><![CDATA[khang]]></dc:creator>
+		<pubDate>Sat, 19 Jun 2021 07:51:56 +0000</pubDate>
+		<guid isPermaLink="false">http://khangpham09123.github.io/mywordpress/?post_type=product&#038;p=174#comment-3</guid>
+
+					<description><![CDATA[ngon quá xá]]></description>
+			<content:encoded><![CDATA[<p>ngon quá xá</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Bởi: khang		</title>
+		<link>http://khangpham09123.github.io/mywordpress/sản%20phẩm/bugatti-la-voiture-noire/#comment-2</link>
+
+		<dc:creator><![CDATA[khang]]></dc:creator>
+		<pubDate>Sat, 19 Jun 2021 07:50:02 +0000</pubDate>
+		<guid isPermaLink="false">http://khangpham09123.github.io/mywordpress/?post_type=product&#038;p=174#comment-2</guid>
+
+					<description><![CDATA[Ngon quá]]></description>
+			<content:encoded><![CDATA[<p>Ngon quá</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
